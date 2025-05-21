@@ -49,7 +49,7 @@ Dự án bao gồm hai ứng dụng web riêng biệt, được xây dựng bằ
 
 <p><strong>1. Giao diện ứng dụng mã hóa và giải mã:</strong></p>
 <p align="center">
-  <img src="mahoa" alt="Giao diện mã hóa và giải mã" width="600">
+  <img src="https://github.com/minhson11/thuatToanAES/blob/main/mahoa.png?raw=true" alt="Giao diện mã hóa và giải mã" width="600">
 </p>
 
 
